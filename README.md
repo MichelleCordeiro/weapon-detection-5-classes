@@ -4,14 +4,13 @@
 </p>
 
 <!--About session-->
-<h1 align="center">Dataset para detecção de armas - Machine Learning</h1>
 
-Dataset para detecção de armas e objetos similares (contém 5 classes: pistola, faca, celular, carteiragit e cédulas de dinheiro), utilizado na disciplina de Machine Learning.
+Dataset para detecção de armas e objetos similares (5 classes: pistola, faca, celular, carteiragit e cédulas de dinheiro), utilizado na disciplina de Machine Learning.
 <br><br>
 
 <!-- Infos -->
 <h3> 👩‍💻 Infos: </h3>
-Foi criado um dataset de 937mb a partir dos dados públicos Weapon Detection - Weapons and similar handled objects - Sohas_weapon-Detection-YOLOv5 do
+Foi criado um dataset de 911mb a partir dos dados públicos Weapon Detection - Weapons and similar handled objects - Sohas_weapon-Detection-YOLOv5 do
 
 [Andalusian Research Institute in Data Science and Computational Intelligence (DaSCI)](https://dasci.es/transferencia/open-data/24705/).
 
@@ -20,4 +19,11 @@ Foi criado um dataset de 937mb a partir dos dados públicos Weapon Detection - W
 <h3> 💻 Dados: </h3>
 <p align="left">
   <code><img src="https://i.postimg.cc/BnTsTQYh/dados-reduzidos-5classes-bg.png"></code>
+</p>
+
+<br>
+<!-- Dados -->
+<h3> 🖼️ Imagens: </h3>
+<p align="left">
+  <code><img src="https://i.postimg.cc/kXNshCZk/dataset.png"></code>
 </p><br>
